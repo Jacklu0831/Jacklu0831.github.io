@@ -32,3 +32,31 @@
 "planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
+
+"wong":
+  - firstname: ["Alexander"]
+    url: https://www.eng.uwaterloo.ca/~a28wong/
+
+"dorfman":
+  - firstname: ["Adam"]
+    url: https://www.eng.uwaterloo.ca/~a28wong/
+
+"mcinnis":
+  - firstname: ["Paul"]
+    url: https://www.eng.uwaterloo.ca/~a28wong/
+
+"famouri":
+  - firstname: ["Mahmoud"]
+    url: https://www.eng.uwaterloo.ca/~a28wong/
+
+"manary":
+  - firstname: ["Daniel"]
+    url: https://www.eng.uwaterloo.ca/~a28wong/
+
+"lee":
+  - firstname: ["James Ren Hou"]
+    url: https://www.eng.uwaterloo.ca/~a28wong/
+
+"lynch":
+  - firstname: ["Michael"]
+    url: https://www.eng.uwaterloo.ca/~a28wong/

@@ -5,5 +5,14 @@
 "PhysRev":
   url: https://journals.aps.org/
 
+"Frontiers":
+  url: https://www.frontiersin.org/journals/artificial-intelligence
+
+"ICRA":
+  url: https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra
+
+"ECCV":
+  url: https://eccv.ecva.net/
+
 "Vision":
   color: "#009f36"
