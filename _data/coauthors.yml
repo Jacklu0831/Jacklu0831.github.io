@@ -1,62 +1,54 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
-
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
-
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
-
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
-
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
-
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
-
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
-
 "wong":
   - firstname: ["Alexander"]
     url: https://www.eng.uwaterloo.ca/~a28wong/
 
+  - firstname: ["Kelvin"]
+    url: https://www.cs.toronto.edu/~kelvinwong/
+
 "dorfman":
   - firstname: ["Adam"]
-    url: https://www.eng.uwaterloo.ca/~a28wong/
+    url: https://ca.linkedin.com/in/adam-dorfman
 
 "mcinnis":
   - firstname: ["Paul"]
-    url: https://www.eng.uwaterloo.ca/~a28wong/
+    url: https://paulmcinnis.github.io/
 
 "famouri":
   - firstname: ["Mahmoud"]
-    url: https://www.eng.uwaterloo.ca/~a28wong/
+    url: https://scholar.google.com/citations?user=BO4hVXYAAAAJ&hl=en
 
 "manary":
   - firstname: ["Daniel"]
-    url: https://www.eng.uwaterloo.ca/~a28wong/
+    url: https://www.linkedin.com/in/dmanary/
 
 "lee":
   - firstname: ["James Ren Hou"]
-    url: https://www.eng.uwaterloo.ca/~a28wong/
+    url: https://dblp.org/search/pid/api?q=author:James_Ren_Hou_Lee
 
 "lynch":
   - firstname: ["Michael"]
-    url: https://www.eng.uwaterloo.ca/~a28wong/
+    url: https://www.linkedin.com/in/michaellynchphd/
+
+"zhang":
+  - firstname: ["Chris"]
+    url: https://scholar.google.com/citations?user=d0BhFY0AAAAJ&hl=en
+
+"zhang":
+  - firstname: ["Chris"]
+    url: https://scholar.google.com/citations?user=d0BhFY0AAAAJ&hl=en
+
+"suo":
+  - firstname: ["Simon"]
+    url: https://www.cs.toronto.edu/~suo/
+
+"urtasun":
+  - firstname: ["Raquel"]
+    url: https://www.cs.toronto.edu/~urtasun/
+
+"teehan":
+  - firstname: ["Ryan"]
+    url: https://rteehas.github.io/
+
+"ren":
+  - firstname: ["Mengye"]
+    url: https://mengyeren.com/
