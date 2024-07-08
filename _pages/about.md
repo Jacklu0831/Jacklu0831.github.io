@@ -22,4 +22,4 @@ I am a first-year Ph.D. student in Computer Science at <a href="https://cims.nyu
 
 I did a mixture of research and software engineering work at <a href="https://research.nvidia.com/labs/toronto-ai/">NVIDIA</a>,  <a href="https://waabi.ai/">Waabi/Uber-ATG</a>,  <a href="https://www.ibm.com/products/cognos-analytics">IBM</a>,  <a href="https://www.bloomberg.com/news/articles/2024-03-14/apple-aapl-buys-canadian-ai-startup-darwinai-as-part-of-race-to-add-features">DarwinAI</a>, and <a href="https://www.deeptrekker.com/">Deep Trekker</a>. During my undergrad, I was fortunate to have worked with <a href="https://www.cs.toronto.edu/~urtasun/">Prof. Raquel Urtasun</a>, <a href="https://www.cs.utoronto.ca/~fidler/">Prof. Sanja Fidler</a>, and <a href="https://www.eng.uwaterloo.ca/~a28wong/">Prof. Alexander Wong</a>.
 
-You can find my hopefully-up-to-date CV <a href="assets/pdf/CV.pdf">here</a>.
+You can find my hopefully-up-to-date CV <a href="https://drive.google.com/file/d/1uJRnKviFdbsa89Gix5w0fFJ83ukWPsh2/view?usp=drive_link">here</a>.
